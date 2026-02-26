@@ -1,0 +1,7 @@
+{
+  "name": "ResaleReady AI",
+  "description": "Smart inventory management with AI-powered item identification and pricing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
